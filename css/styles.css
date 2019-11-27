@@ -1,0 +1,30 @@
+body {
+  background: radial-gradient(#4d80e4,#46b3e6);
+}
+
+hr {
+  color: gray;
+  border-style: dotted none none;
+  height: 0px;
+  width: 5%;
+  border-width: 5px;
+}
+
+img {
+  border-radius: 30%;
+  height: 300px;
+}
+
+h1 {
+  color: #ffdc34;
+  font-family: cursive;
+}
+
+h3 {
+  color: #801336;
+  font-family: sans-serif;
+}
+
+p {
+  color: #ffffff;
+}
