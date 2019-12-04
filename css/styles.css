@@ -1,30 +1,69 @@
 body {
-  background: radial-gradient(#4d80e4,#46b3e6);
-}
-
-hr {
-  color: gray;
-  border-style: dotted none none;
-  height: 0px;
-  width: 5%;
-  border-width: 5px;
-}
-
-img {
-  border-radius: 30%;
-  height: 300px;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
 h1 {
-  color: #ffdc34;
-  font-family: cursive;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
-  color: #801336;
-  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
-p {
-  color: #ffffff;
+.top {
+  background-color: #fbe3b9;
+  padding-top: 120px;
+  position: relative;
+}
+
+.middle-container {
+
+
+}
+
+.bottom-container {
+
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 70px;
+  right: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.james-pic {
+  border-radius: 100%;
+  
+}
+
+.comm-image {
+  height: 200px;
+  width: 200px;
+}
+
+.code-image {
+  height: 200px;
+  width: 200px;
+}
+
+.lakers-image {
+  height: 160px;
+  width: 160px;
+
 }
